@@ -1,0 +1,20 @@
+pwd for current directory/file location
+cd \c to change the directory
+git status
+go to file and open with git bash for that directory
+uparrow key for copy the above line
+
+$ git config --global user.name "Durgesh"
+
+admin@LAPTOP-P5TMLFOB MINGW64 /e/gitcommands/gittutorial
+$ git config --global user.email "durgeshkeshri7@gmail.com"
+
+git add --a to add all files at staging stage
+
+git commit -m "Initial Commit" commit without opening file in editor
+
+rm -rf .git to remove from the git repo
+mkdir hello to make repo
+cd hello to get in that directory
+
+
